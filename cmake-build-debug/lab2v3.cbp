@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lab2v3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/grownike/sem2labs/lab2v3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/home/grownike/sem2labs/lab2v3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/home/grownike/sem2labs/lab2v3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/home/grownike/sem2labs/lab2v3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/grownike/sem2labs/lab2v3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/grownike/sem2labs/lab2v3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/home/grownike/sem2labs/lab2v3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/home/grownike/sem2labs/lab2v3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/home/grownike/sem2labs/lab2v3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/grownike/sem2labs/lab2v3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/grownike/sem2labs/lab2v3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/home/grownike/sem2labs/lab2v3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/home/grownike/sem2labs/lab2v3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/home/grownike/sem2labs/lab2v3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/grownike/sem2labs/lab2v3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab2v3">
+				<Option output="/home/grownike/sem2labs/lab2v3/cmake-build-debug/lab2v3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/grownike/sem2labs/lab2v3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/home/grownike/sem2labs/lab2v3/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab2v3"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/home/grownike/sem2labs/lab2v3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/home/grownike/sem2labs/lab2v3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/grownike/sem2labs/lab2v3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab2v3/fast">
+				<Option output="/home/grownike/sem2labs/lab2v3/cmake-build-debug/lab2v3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/grownike/sem2labs/lab2v3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/home/grownike/sem2labs/lab2v3/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab2v3/fast"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/home/grownike/sem2labs/lab2v3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/home/grownike/sem2labs/lab2v3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/grownike/sem2labs/lab2v3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/grownike/sem2labs/lab2v3/IndexOutOfRange.h">
+			<Option target="lab2v3"/>
+		</Unit>
+		<Unit filename="/home/grownike/sem2labs/lab2v3/array_sequnce.h">
+			<Option target="lab2v3"/>
+		</Unit>
+		<Unit filename="/home/grownike/sem2labs/lab2v3/array_set.h">
+			<Option target="lab2v3"/>
+		</Unit>
+		<Unit filename="/home/grownike/sem2labs/lab2v3/dynamic_array.h">
+			<Option target="lab2v3"/>
+		</Unit>
+		<Unit filename="/home/grownike/sem2labs/lab2v3/errors.h">
+			<Option target="lab2v3"/>
+		</Unit>
+		<Unit filename="/home/grownike/sem2labs/lab2v3/linked_list.h">
+			<Option target="lab2v3"/>
+		</Unit>
+		<Unit filename="/home/grownike/sem2labs/lab2v3/list_sequence.h">
+			<Option target="lab2v3"/>
+		</Unit>
+		<Unit filename="/home/grownike/sem2labs/lab2v3/main.cpp">
+			<Option target="lab2v3"/>
+		</Unit>
+		<Unit filename="/home/grownike/sem2labs/lab2v3/my_classes.h">
+			<Option target="lab2v3"/>
+		</Unit>
+		<Unit filename="/home/grownike/sem2labs/lab2v3/sequence.h">
+			<Option target="lab2v3"/>
+		</Unit>
+		<Unit filename="/home/grownike/sem2labs/lab2v3/tests_array_sequence.h">
+			<Option target="lab2v3"/>
+		</Unit>
+		<Unit filename="/home/grownike/sem2labs/lab2v3/tests_array_set.h">
+			<Option target="lab2v3"/>
+		</Unit>
+		<Unit filename="/home/grownike/sem2labs/lab2v3/tests_dynamic_array.h">
+			<Option target="lab2v3"/>
+		</Unit>
+		<Unit filename="/home/grownike/sem2labs/lab2v3/tests_linked_list.h">
+			<Option target="lab2v3"/>
+		</Unit>
+		<Unit filename="/home/grownike/sem2labs/lab2v3/tests_list_sequence.h">
+			<Option target="lab2v3"/>
+		</Unit>
+		<Unit filename="/home/grownike/sem2labs/lab2v3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,3 @@
+/home/grownike/sem2labs/lab2v3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/grownike/sem2labs/lab2v3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/grownike/sem2labs/lab2v3/cmake-build-debug/CMakeFiles/lab2v3.dir
